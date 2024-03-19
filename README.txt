@@ -1,1 +1,2 @@
-Colin's website\nWIP
+Colin's website
+WIP
